@@ -1,7 +1,7 @@
-package org.deichbrise.brainunit.core;
+package org.brainunity.core;
 
-import org.deichbrise.brainunit.core.util.GuidGenerator;
-import org.deichbrise.brainunit.core.util.TimestampUtil;
+import org.brainunity.core.util.GuidGenerator;
+import org.brainunity.core.util.TimestampUtil;
 
 import java.sql.Timestamp;
 

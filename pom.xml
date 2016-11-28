@@ -4,10 +4,11 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>org.deichbrise</groupId>
-    <artifactId>brain-unit-parent</artifactId>
+    <groupId>org.brainunity</groupId>
+    <artifactId>brainunity-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+    <name>BrainUnity Parent POM</name>
 
     <modules>
         <module>core</module>

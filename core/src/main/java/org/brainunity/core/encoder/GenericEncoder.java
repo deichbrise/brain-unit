@@ -1,4 +1,4 @@
-package org.deichbrise.brainunit.core.encoder;
+package org.brainunity.core.encoder;
 
 /**
  * @author pascalstammer

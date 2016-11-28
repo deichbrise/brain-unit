@@ -1,4 +1,4 @@
-package org.deichbrise.brainunit.core;
+package org.brainunity.core;
 
 /**
  * @author pascalstammer
