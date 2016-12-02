@@ -3,6 +3,7 @@ package org.brainunity.core.unit;
 import org.brainunity.core.context.Context;
 import org.brainunity.core.unit.Unit;
 
+import java.util.ArrayList;
 import java.util.List;
 
 /**
@@ -40,6 +41,14 @@ public abstract class AbstractUnit implements Unit {
     }
 
     protected abstract void expandParamaters();
+
+    protected void save(Object object) {
+
+    }
+
+    protected void save(List<?> objects) {
+
+    }
 
     public List<Unit> getPreProcessorUnits() {
         return preProcessorUnits;
