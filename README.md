@@ -1,1 +1,1 @@
-# Prototype of brain like software archtitecture
+# Brain Unity

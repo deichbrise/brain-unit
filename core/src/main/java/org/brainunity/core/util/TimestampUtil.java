@@ -1,4 +1,4 @@
-package org.deichbrise.brainunit.core.util;
+package org.brainunity.core.util;
 
 
 import java.sql.Timestamp;
