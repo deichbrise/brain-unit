@@ -9,7 +9,6 @@
         <artifactId>brainunity-parent</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-
     <artifactId>core</artifactId>
 
     <name>Brain Unity Core Module</name>
